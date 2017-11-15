@@ -5,7 +5,7 @@ Given a CSV file, plug in the KBART values into the headers of their correspondi
 
 -----
 
-    python anywithheaders_tokbart.py  foo.csv
+    python to_kbart.py  foo.csv
 
 License
 -----
